@@ -7,4 +7,4 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     from SUBHAN import main
-    reg()
+    main_apv
